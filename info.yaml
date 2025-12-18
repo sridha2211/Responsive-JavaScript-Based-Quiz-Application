@@ -1,0 +1,39 @@
+project:
+title: Responsive JavaScript-Based Quiz Application
+description: >
+A web-based interactive quiz application built using HTML, CSS, and JavaScript.
+The app dynamically loads questions, provides real-time feedback, calculates
+scores, and includes a countdown timer for each question. The UI is fully
+responsive for both mobile and desktop devices.
+
+
+technologies:
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+
+features:
+- Dynamic question loading
+- Real-time answer feedback
+- Countdown timer per question
+- Automatic score calculation
+- Responsive UI design
+use_cases:
+- Online quizzes
+- Learning platforms
+- Technical assessments
+
+
+author: Sridha
+role: Frontend Developer
+
+
+deployment:
+platform: GitHub Pages
+steps:
+- Push code to GitHub repository
+- Enable GitHub Pages from repository settings
+
+
+license: MIT
